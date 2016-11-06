@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MC68000FN
+D Microprocessor, 16-bit bus
+K MPRO
+F http://www.nxp.com/files/32bit/doc/ref_manual/MC68000UM.pdf
+$ENDCMP
+#
 $CMP ZL4PLD
 D Module with XC9572XL
 K CPLD
